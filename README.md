@@ -39,17 +39,8 @@ hi, i'm [omar jmai](https://jmaiiomar.github.io/E-portfolio/?fbclid=IwAR3RsFvm4_
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-```text
-JSX          10 hrs 38 mins  ████████████████▒░░░░░░░░   65.02 % 
-JavaScript   5 hrs 40 mins   ████████▓░░░░░░░░░░░░░░░░   34.72 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-```
-<!--END_SECTION:waka-->
 
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
