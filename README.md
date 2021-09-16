@@ -5,7 +5,7 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:louay.yahyaoui@esprit.tn)
+  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:omar.jmai@esprit.tn)
 
 
 
@@ -22,7 +22,8 @@ hi, i'm [omar jmai](https://jmaiiomar.github.io/E-portfolio/?fbclid=IwAR3RsFvm4_
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work?  [email](mailto:abhishek.naidu@cred.club) :)
+- 💼 any freelance work?    [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:omar.jmai@esprit.tn)
+ :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
