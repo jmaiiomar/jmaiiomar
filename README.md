@@ -43,12 +43,11 @@ hi, i'm [omar jmai](https://jmaiiomar.github.io/E-portfolio/?fbclid=IwAR3RsFvm4_
 
 
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,936 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 663 tasks so far           
-⏳  Longest streak is 10 days
+🚧 **my goals this year:**
+<!-- GOALS:START -->
+🏆  BE senior developer             
+✅  finish my study           
+⏳  Full stack developer
 <!-- TODO-IST:END -->
 
 
