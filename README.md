@@ -50,7 +50,7 @@ Hi, i'm [omar jmai](https://jmaiiomar.github.io/E-portfolio/?fbclid=IwAR3RsFvm4_
 🏆  Become senior developer                     
 
 <!-- TODO-IST:END -->
-
+<br/>
 
 📈 My github stats
 <br/>
