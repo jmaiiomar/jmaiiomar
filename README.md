@@ -53,7 +53,7 @@ Hi, i'm [omar jmai](https://jmaiiomar.github.io/E-portfolio/?fbclid=IwAR3RsFvm4_
 
 
 📈 My github stats
-<br>
+<br/>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jmaiiomar&show_icons=true&theme=gotham" alt="jmaiiomar" />
 
