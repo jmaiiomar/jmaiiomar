@@ -14,19 +14,19 @@
 
 <br />
 
-hi, i'm [omar jmai](https://jmaiiomar.github.io/E-portfolio/?fbclid=IwAR3RsFvm4_AbBItUzFwqHDfiZP9lpNiZRoNBs1a-wZkDH7Scm0NE4cX11dY),
- i m a passionate self-taught full stack web developer and a freelance software engineer from Tunisia  Extremely passionate about everything related to computer engineering especially web and software development in case I use my free time to learn new technologies in order to improve more my skills. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, i'm [omar jmai](https://jmaiiomar.github.io/E-portfolio/?fbclid=IwAR3RsFvm4_AbBItUzFwqHDfiZP9lpNiZRoNBs1a-wZkDH7Scm0NE4cX11dY),
+ i m both a full stack web engineer and a freelancer from Tunisia. Im extremely passionate with everything related to computer engineering mostly web and software development in case I'm using my free time to learn new technologies in order to improve my skills more. My passion for software lies with dreaming up ideas and making them come true with elegant user interfaces, i mainly focus on the experience, architecture, and code quality in the app i develop..
 
 .
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work?    [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:omar.jmai@esprit.tn)
+- 💼 Any freelance work?    [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:omar.jmai@esprit.tn)
  :)
-- 💬 ask me about anything, i am happy to help;
+- 💬 Ask me about anything, i am happy to help;
 
-**languages and tools:**  
+**Languages and tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -43,15 +43,17 @@ hi, i'm [omar jmai](https://jmaiiomar.github.io/E-portfolio/?fbclid=IwAR3RsFvm4_
 
 
 
-🚧 **my goals this year:**
+🚧 **My goals this year:**
 <!-- GOALS:START -->
-🏆  BE senior developer             
-✅  finish my study           
+✅ Finish my study 
 ⏳  Full stack developer
+🏆  Become senior developer                     
+
 <!-- TODO-IST:END -->
 
 
-📈 my github stats
+📈 My github stats
+<br>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jmaiiomar&show_icons=true&theme=gotham" alt="jmaiiomar" />
 
