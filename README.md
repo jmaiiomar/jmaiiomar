@@ -5,7 +5,7 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:omar.jmai@esprit.tn)
+  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jmaiomar184@gmail)
 
 
 
@@ -13,10 +13,13 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=jmaiiomar.jmaiiomar)
 
 <br />
+👨‍💻 Full Stack Engineer | Passionate about building robust, scalable, and secure web systems using industry best practices.
 
-Hi, i'm [omar jmai](https://jmaiiomar.github.io/E-portfolio/?fbclid=IwAR3RsFvm4_AbBItUzFwqHDfiZP9lpNiZRoNBs1a-wZkDH7Scm0NE4cX11dY),
- i m both a full stack web engineer and a freelancer from Tunisia. Im extremely passionate with everything related to computer engineering mostly web and software development in case I'm using my free time to learn new technologies in order to improve my skills more. My passion for software lies with dreaming up ideas and making them come true with elegant user interfaces, i mainly focus on the experience, architecture, and code quality in the app i develop..
+🛠️ Technologies: React, Angular, Node.js, Django, Spring, Java, JavaScript, Python, TypeScript.
 
+🌍 Bilingual: French 🇫🇷 and English 🇬🇧 – effective communication with clients and colleagues from diverse regions.
+
+🚀 Always seeking new ways to enhance my skills and stay ahead in the tech world.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
