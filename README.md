@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/jmai-omar-611b56206/">
 
 
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" style="margin-top=3px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
 </a>
 
   [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jmaiomar184@gmail)
