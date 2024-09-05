@@ -48,11 +48,13 @@
 
 
 
-🚧 **My goals this year:**
+🚧 My Goals:
+
 <!-- GOALS:START -->
-✅ Finish my study 
-⏳  Full stack developer
-🏆  Become senior developer                     
+🌟 Lead and mentor junior developers
+📈 Drive innovation and implement best practices
+🚀 Contribute to impactful projects and initiatives
+🔍 Stay updated with emerging technologies and industry trends                  
 
 <!-- TODO-IST:END -->
 <br/>
