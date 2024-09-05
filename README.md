@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/jmai-omar-611b56206/">
 
 
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" style="margin-top=3px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
+  <img align="left" alt="Abhishek's LinkedIN" width="22px"  src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
 </a>
 
   [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jmaiomar184@gmail)
@@ -22,7 +22,7 @@
 🚀 Always seeking new ways to enhance my skills and stay ahead in the tech world.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" style="margin-top=5px" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   <br/>
   
 - 💼 Any freelance work?    [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jmaiomar184@gmail.com)
