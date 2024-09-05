@@ -1,4 +1,4 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 <a href="https://www.linkedin.com/in/jmai-omar-611b56206/">
@@ -8,8 +8,6 @@
 </a>
 
   [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jmaiomar184@gmail)
-
-
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=jmaiiomar.jmaiiomar)
