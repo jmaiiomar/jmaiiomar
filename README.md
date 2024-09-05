@@ -25,7 +25,7 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   <br/>
   
-- 💼 Any freelance work?    [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:omar.jmai@esprit.tn)
+- 💼 Any freelance work?    [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jmaiomar184@gmail.com)
  :)
 - 💬 Ask me about anything, i am happy to help;
 
